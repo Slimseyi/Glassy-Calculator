@@ -6,9 +6,6 @@
             document.getElementById('display').value = '';
         }
 
-         function clearDisplay() {
-            document.getElementById('display').value = '0';
-        }
 
         function calculate() {
             try {
